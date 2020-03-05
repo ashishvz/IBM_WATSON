@@ -19,4 +19,4 @@ Overview:
     We got the visualization for the custom dataset as we needed
     
     1. Line Graph and Confusion Matrix
-      ![Line graph and Confusion Matrix](https://github.com/ashishvz/IBM_WATSON/blob/master/Screenshot%20from%202020-03-05%2011-51-54.png)
+      ![Line graph and Confusion Matrix]("https://github.com/ashishvz/IBM_WATSON/blob/master/Screenshot%20from%202020-03-05%2011-51-54.png")
