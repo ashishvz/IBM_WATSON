@@ -18,7 +18,11 @@ Overview:
   STEP-4
     We got the visualization for the custom dataset as we needed
     
+   <p align="center">
+  <img src="/Screenshot from 2020-03-05 11-51-54.png" width="350" title="hover text">
+  
+  </p>
    Line Graph and Confusion Matrix
-   ![Line graph and Confusion Matrix]("Screenshot from 2020-03-05 11-51-54.png")
+   ![Line graph and Confusion Matrix]("")
       
    ![Alt text](relative/path/to/img.jpg?raw=true "Title")
