@@ -18,7 +18,7 @@ Overview:
   STEP-4
     We got the visualization for the custom dataset as we needed
     
-    1. Line Graph and Confusion Matrix
-      ![Line graph and Confusion Matrix]("/Screenshot%20from%202020-03-05%2011-51-54.png")
+   Line Graph and Confusion Matrix
+   ![Line graph and Confusion Matrix]("/Screenshot%20from%202020-03-05%2011-51-54.png")
       
-      ![Alt text](relative/path/to/img.jpg?raw=true "Title")
+   ![Alt text](relative/path/to/img.jpg?raw=true "Title")
