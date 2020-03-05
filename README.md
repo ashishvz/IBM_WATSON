@@ -17,11 +17,14 @@ Overview:
     
   STEP-4
     We got the visualization for the custom dataset as we needed
-    
-   <p align="center">
+   
+  1. Line Graph and Confusion Matrix
+  <p align="center">
   <img src="/Screenshot from 2020-03-05 11-51-54.png" title="Line Graph and Confusion Matrix">
   </br></br></br></br>
-  <img src="/Screenshot from 2020-03-05 11-52-09.png" width="750" height="600" title="hover text">
+  <img src="/Screenshot from 2020-03-05 11-52-09.png" title="">
+  </br></br></br></br>
+  <img src="/Screenshot from 2020-03-05 12-04-15.png" title="">
   </br>
   </p>
    
