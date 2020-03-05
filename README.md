@@ -17,15 +17,17 @@ Overview:
     
   STEP-4
     We got the visualization for the custom dataset as we needed
-   
-  1. Green houses concentration on Map
+    
   <p align="center">
+  1. Green houses concentration on Map
   <img src="/Screenshot from 2020-03-05 11-51-54.png" title="Green houses concentration on Map ">
   </br></br></br></br>
   2. Line Graph and Confusion Matrix
+  </br></br>
   <img src="/Screenshot from 2020-03-05 11-52-09.png" title="Line Graph and Confusion Matrix">
   </br></br></br></br>
   3. Heat maps
+  </br></br>
   <img src="/Screenshot from 2020-03-05 12-04-15.png" title="Heat Maps">
   </br>
   </p>
